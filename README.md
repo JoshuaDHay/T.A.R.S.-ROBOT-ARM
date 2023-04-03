@@ -1,4 +1,4 @@
-# ROBOT-ARM
+#TARS-ROBOT-ARM
 
 Inspired by Damian Lickindorf:
 https://hackaday.io/project/168259-atlas-6dof-3d-printed-universal-robot
